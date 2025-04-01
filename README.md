@@ -1,2 +1,2 @@
 # alpha-demo
-this for git-hub class 
+this for git-hub class.
